@@ -3,3 +3,4 @@
 * current user groups
 * change owner of a file
 * create an empty file
+* add execute xommand to a file
